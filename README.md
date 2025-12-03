@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Studler
+Built Studler, a student-focused helper and productivity platform with community notes sharing, project collaboration and feedback, to-do task tracking, and interactive learning quizzes, delivering a centralized space for academic support, planning, and student teamwork.
+>>>>>>> 2dcf1234b4a7e7f1f7e9e25d09866106852d29dd
